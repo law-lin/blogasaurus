@@ -1,4 +1,4 @@
-#title{
+#button{
 font-family: fantasy;
 color: maroon;
 font-size: 40px;
@@ -8,7 +8,10 @@ background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet
 
 
 }
-
+#picture{
+height: 100px;
+width: 100px;
+}
 .section-header{
 font-size: 35px;
 
@@ -16,7 +19,7 @@ font-size: 35px;
 }
 .top-title{
 font-family: sans-serif;
-color: green;
+color: black;
 font-size: 30px;
 
 }
