@@ -1,3 +1,3 @@
 # Blogasaurus
 
-Blogasaurus is just some practice with basic HTML/CSS. Nothing much to see here.
+Blogasaurus is just some practice with basic HTML/CSS/JS. Nothing much to see here.
